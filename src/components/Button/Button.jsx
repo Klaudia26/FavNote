@@ -16,7 +16,7 @@ const Button = ({ children, href, secondary, ...props }) => {
           {children}
         </a>
       ) : (
-        <button type="button" className={buttonClass} {...props}>
+        <button type="submit" className={buttonClass} {...props}>
           {children}
         </button>
       )}
