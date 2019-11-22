@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FavNote/static/css/main.db49797f.chunk.css",
+    "main.js": "/FavNote/static/js/main.5becf6b7.chunk.js",
+    "main.js.map": "/FavNote/static/js/main.5becf6b7.chunk.js.map",
+    "runtime-main.js": "/FavNote/static/js/runtime-main.34f1ff74.js",
+    "runtime-main.js.map": "/FavNote/static/js/runtime-main.34f1ff74.js.map",
+    "static/js/2.5cee3a10.chunk.js": "/FavNote/static/js/2.5cee3a10.chunk.js",
+    "static/js/2.5cee3a10.chunk.js.map": "/FavNote/static/js/2.5cee3a10.chunk.js.map",
+    "index.html": "/FavNote/index.html",
+    "precache-manifest.6ca97fd309b5170fbc0c3231ce61f98c.js": "/FavNote/precache-manifest.6ca97fd309b5170fbc0c3231ce61f98c.js",
+    "service-worker.js": "/FavNote/service-worker.js",
+    "static/css/main.db49797f.chunk.css.map": "/FavNote/static/css/main.db49797f.chunk.css.map",
+    "static/media/logo.svg": "/FavNote/static/media/logo.1e47eba9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34f1ff74.js",
+    "static/js/2.5cee3a10.chunk.js",
+    "static/css/main.db49797f.chunk.css",
+    "static/js/main.5becf6b7.chunk.js"
+  ]
+}
