@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FavNote/static/css/main.db49797f.chunk.css",
-    "main.js": "/FavNote/static/js/main.5becf6b7.chunk.js",
-    "main.js.map": "/FavNote/static/js/main.5becf6b7.chunk.js.map",
+    "main.js": "/FavNote/static/js/main.beb29c00.chunk.js",
+    "main.js.map": "/FavNote/static/js/main.beb29c00.chunk.js.map",
     "runtime-main.js": "/FavNote/static/js/runtime-main.34f1ff74.js",
     "runtime-main.js.map": "/FavNote/static/js/runtime-main.34f1ff74.js.map",
     "static/js/2.5cee3a10.chunk.js": "/FavNote/static/js/2.5cee3a10.chunk.js",
     "static/js/2.5cee3a10.chunk.js.map": "/FavNote/static/js/2.5cee3a10.chunk.js.map",
     "index.html": "/FavNote/index.html",
-    "precache-manifest.6ca97fd309b5170fbc0c3231ce61f98c.js": "/FavNote/precache-manifest.6ca97fd309b5170fbc0c3231ce61f98c.js",
+    "precache-manifest.f4abcfa266479c1e95e3e758873385d3.js": "/FavNote/precache-manifest.f4abcfa266479c1e95e3e758873385d3.js",
     "service-worker.js": "/FavNote/service-worker.js",
     "static/css/main.db49797f.chunk.css.map": "/FavNote/static/css/main.db49797f.chunk.css.map",
     "static/media/logo.svg": "/FavNote/static/media/logo.1e47eba9.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.34f1ff74.js",
     "static/js/2.5cee3a10.chunk.js",
     "static/css/main.db49797f.chunk.css",
-    "static/js/main.5becf6b7.chunk.js"
+    "static/js/main.beb29c00.chunk.js"
   ]
 }
