@@ -12,9 +12,8 @@ const Header = ({ openModalFn }) => (
       <HeaderNavigation />
     </div>
     <Button onClick={openModalFn} secondary>
-      new item
+      New items
     </Button>
   </header>
 );
 export default Header;
-// TODO #7 change the text
