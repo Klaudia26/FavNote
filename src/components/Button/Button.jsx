@@ -12,7 +12,6 @@ const Button = ({ children, href, secondary, ...props }) => {
           rel="noopener noreferrer"
           href={href}
         >
-          {" "}
           {children}
         </a>
       ) : (
@@ -25,5 +24,3 @@ const Button = ({ children, href, secondary, ...props }) => {
 };
 
 export default Button;
-
-// TODO #4 change the color of the button @Klaudia26
