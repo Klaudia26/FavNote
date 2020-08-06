@@ -1,8 +1,8 @@
-import React from 'react';
-import HeaderNavigation from './HeaderNavigation';
-import Button from '../Button/Button';
-import styles from './Header.module.scss';
-import logoImage from '../../assets/images/logo.svg';
+import React from "react";
+import HeaderNavigation from "./HeaderNavigation";
+import Button from "../Button/Button";
+import styles from "./Header.module.scss";
+import logoImage from "../../assets/images/logo.svg";
 
 const Header = ({ openModalFn }) => (
   <header className={styles.wrapper}>
@@ -16,5 +16,5 @@ const Header = ({ openModalFn }) => (
     </Button>
   </header>
 );
-
 export default Header;
+// TODO #7 change the text
