@@ -1,5 +1,5 @@
-import React from 'react';
-import styles from './Button.module.scss';
+import React from "react";
+import styles from "./Button.module.scss";
 
 const Button = ({ children, href, secondary, ...props }) => {
   const buttonClass = secondary ? styles.secondary : styles.button;
@@ -12,7 +12,7 @@ const Button = ({ children, href, secondary, ...props }) => {
           rel="noopener noreferrer"
           href={href}
         >
-          {' '}
+          {" "}
           {children}
         </a>
       ) : (
@@ -25,3 +25,5 @@ const Button = ({ children, href, secondary, ...props }) => {
 };
 
 export default Button;
+
+// TODO #4 change the color of the button @Klaudia26
