@@ -12,11 +12,10 @@ const ListWrapper = ({ items }) => (
       </ul>
     ) : (
       <h1 className={styles.noItem}>
-        There's nothig here yet, please add some items!
+        There's nothig here yet, please add some new items.
       </h1>
     )}
   </>
 );
 
 export default ListWrapper;
-//TODO #10 change the text @Klaudia26
