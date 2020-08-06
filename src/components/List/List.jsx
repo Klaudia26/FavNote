@@ -1,6 +1,6 @@
-import React from 'react';
-import ListItem from './ListItem';
-import styles from './List.module.scss';
+import React from "react";
+import ListItem from "./ListItem";
+import styles from "./List.module.scss";
 
 const ListWrapper = ({ items }) => (
   <>
@@ -19,3 +19,4 @@ const ListWrapper = ({ items }) => (
 );
 
 export default ListWrapper;
+//TODO #10 change the text @Klaudia26
